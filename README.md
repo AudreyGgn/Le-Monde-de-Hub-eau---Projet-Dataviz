@@ -8,7 +8,7 @@ Quelle est la hauteur de la Loire à Nantes en ce moment ?
 
 Le Monde de Hub'eau est un site web dynamique permettant d'afficher de manière animée le niveau d'eau de la Loire à Nantes en temps réel (mesuré à la station hydrométrique du Pont Anne de Bretagne). Ces données sont récupérées à partir de [l'API hydrométrie de Hub'eau](https://hubeau.eaufrance.fr/page/api-hydrometrie), un service qui donne accès à de nombreuses informations sur les cours d'eau en France.
 
-![Démo de l'animation en GIF](./Images/DEMO.gif =700x535)
+![Démo de l'animation en GIF](https://github.com/AudreyGgn/Le-Monde-de-Hub-eau---Projet-Dataviz/blob/main/Images/DEMO.gif)
 
 ## Projet
 
